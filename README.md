@@ -12,6 +12,6 @@ PEN
 
 <h2>Code Available:</h2>
 <ul>
-  <li>main.html</li>
+  <li>gel_main.html</li>
   <li>TBD</li>
 </ul>
